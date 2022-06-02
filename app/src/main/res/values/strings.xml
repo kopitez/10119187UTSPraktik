@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pikobar</string>
+    <string name="terimakasih">Terima kasih sudah membantu \n mempercepat pelacakan kasus dengan \n mengisi laporan ini secara jujur.</string>
+    <string name="info">Form berikut ini bertujuan untuk memberikan informasi \nkepada pusat agar dapat mudah dilaporkan</string>
+    <string name="checkbox">Dengan ini saya menyetujui bahwa data yang saya isikan adalah \nbenar</string>
+    <string name="dialog">Berhasil Mendapatkan Akses</string>
+    <string name="dialog2">Silahkan tap tombol dibawah untuk memulai \nisi form Lapor Kesehatan Harian</string>
+</resources>
